@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+
+.justify-items{
+    justify-items: center;
+}
+
+.graph-card{
+    @apply w-full px-4 pt-4 py-10 bg-white shadow-lg relative text-gray-900 h-card rounded-lg;
+}
+
+@tailwind utilities;

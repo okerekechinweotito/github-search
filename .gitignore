@@ -1,0 +1,10 @@
+node_modules/
+.eslintrc.json
+.prettierrc
+postcss.config.js
+.env
+dist/
+.cache/
+
+/dist
+/.cache
